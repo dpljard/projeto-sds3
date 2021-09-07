@@ -1,0 +1,17 @@
+<svg width="1012" height="506" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Daniel P. Lima</title>
+ <defs>
+  <filter id="svg_3_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+  <path id="svg_1" d="m250.41231,228.74412l-41.57055,19.15999l41.05664,6.58237l-37.9483,20.5699l-15.32126,-3.47354l10.86683,19.82712l43.18584,-8.65045l-18.23376,-3.61585l49.51266,-29.54503l-45.26016,-5.35483l43.70601,-19.96502l-24.93074,-2.99764l27.15331,-12.68881l-9.97497,-0.18236l-42.13656,17.40768l19.895,2.92647l0,-0.00001z" stroke="#000" fill="#fff"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text transform="matrix(2.13825 0 0 3.9658 -611.577 -653.942)" filter="url(#svg_3_blur)" stroke="#000" font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="middle" font-family="'Special Elite'" font-size="24" stroke-width="0" id="svg_3" y="235.23962" x="422.54902" fill="#000000">
+   <textPath startOffset="257" xlink:href="#svg_1" xml:space="default">Daniel P. Lima</textPath>
+  </text>
+  <path id="svg_7" d="m209.33289,169.51821l-60.9057,38.78168l60.15276,13.32334l-55.59868,41.63547l-22.44743,-7.03078l15.92117,40.13201l63.27229,-17.50935l-26.71458,-7.31883l72.54181,-59.80199l-66.31141,-10.8387l64.03439,-40.41112l-36.52643,-6.06752l39.78276,-25.68338l-14.6145,-0.36911l-61.73497,35.23483l29.14849,5.92345l0.00001,-0.00001z" stroke="#000" fill="#0E353B"/>
+  <text transform="matrix(6.83514 0 0 7.3168 -2614.24 -1155.09)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Special Elite'" font-size="24" id="svg_8" y="194.68336" x="423.77781" fill="#1A333F">SD Sales</text>
+ </g>
+</svg>
